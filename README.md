@@ -1,6 +1,6 @@
 # Davy Jones
 
-**UK ↔ Building onchain** · Engineer [@zkp2p](https://github.com/zkp2p) · Founded [GalleonDAO](https://github.com/GalleonDAO) · [@davyjones0x](https://twitter.com/davyjones0x)
+**UK** · Engineer [@zkp2p](https://github.com/zkp2p) · Founded [GalleonDAO](https://github.com/GalleonDAO) · [@davyjones0x](https://twitter.com/davyjones0x)
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
@@ -14,48 +14,44 @@
 
 ### What I'm Building
 
-**ZKP2P Ecosystem** — Trustless fiat-to-crypto rails powered by zero-knowledge proofs
+**ZKP2P Ecosystem**
 
-- ⚡ **[ZKP2P](https://zkp2p.xyz)** — P2P fiat onramp with ZK payment verification. Venmo, PayPal, Wise, Revolut, and more.
-- 📊 **[Peerlytics](https://github.com/ADWilkinson/peerlytics)** — Liquidity intelligence dashboard. Pre-computed analytics, real-time V3 events, intent explorer.
-- 💸 **[usdctofiat](https://github.com/ADWilkinson/usdctofiat)** — Composable USDC off-ramp for makers on Base. Simple by default, powerful when needed.
+- ⚡ **[ZKP2P](https://zkp2p.xyz)** - P2P fiat onramp with ZK payment verification. Venmo, PayPal, Wise, Revolut, and more.
+- 📊 **[Peerlytics](https://github.com/ADWilkinson/peerlytics)** - Liquidity intelligence dashboard for ZKP2P. Pre-computed analytics, real-time events, intent explorer.
+- 💸 **[usdctofiat](https://github.com/ADWilkinson/usdctofiat)** - USDC off-ramp for makers on Base.
 
-**AI & Automation** — Shipping code while I sleep
+**AI & Automation**
 
-- 🏴‍☠️ **[Barbossa](https://github.com/ADWilkinson/barbossa-dev)** — Autonomous AI dev pipeline. Turns backlog items into reviewed PRs. Five agents: Engineer, Tech Lead, Discovery, PM, Auditor.
-- 🦑 **[Jones Intern](https://github.com/ADWilkinson/davy-jones-intern)** — Multi-tenant AI assistant for Slack. BYOK Claude, GitHub/Linear integrations, usage tracking.
-- 🛠️ **[Claude Code Tools](https://github.com/ADWilkinson/claude-code-tools)** — Custom agents, commands, skills, and statusline for Claude Code.
+- 🏴‍☠️ **[Barbossa](https://github.com/ADWilkinson/barbossa-dev)** - Autonomous AI dev pipeline. Turns backlog items into reviewed PRs.
+- 🦑 **[Jones Intern](https://github.com/ADWilkinson/davy-jones-intern)** - Multi-tenant AI assistant for Slack. BYOK Claude, GitHub/Linear integrations.
+- 🛠️ **[Claude Code Tools](https://github.com/ADWilkinson/claude-code-tools)** - Custom agents, commands, skills for Claude Code.
 
 **Trading & DeFi**
 
-- ⚓ **[Privateer Capital](https://github.com/ADWilkinson/privateer-capital)** — Statistical arbitrage on Hyperliquid. Pairs trading bot with correlation analysis and cloud-native execution.
-- 🚢 **[GalleonDAO](https://github.com/GalleonDAO)** — DeFi structured products methodologist. Raised $1M seed from 1kx, Angel DAO, MetaPortal.
-- 📈 **[Pinescript Indicators](https://github.com/ADWilkinson/pinescript-indicators)** — Open source TradingView indicators.
+- ⚓ **[Privateer Capital](https://github.com/ADWilkinson/privateer-capital)** - Pairs trading bot on Hyperliquid.
+- 🚢 **[GalleonDAO](https://github.com/GalleonDAO)** - DeFi structured products. Raised $1M seed from 1kx, Angel DAO, MetaPortal.
+- 📈 **[Pinescript Indicators](https://github.com/ADWilkinson/pinescript-indicators)** - Open source TradingView indicators.
 
 **Fun Stuff**
 
-- 💥 **[Broadside.fun](https://broadside.fun)** — Multiplayer browser naval combat. Fire cannons, sink ships, climb leaderboards.
-- 🎨 **[Flying Dutchman Theme](https://github.com/ADWilkinson/the-flying-dutchman-theme)** — VS Code theme for those who sail dark waters.
+- 💥 **[Broadside.fun](https://broadside.fun)** - Multiplayer browser naval combat.
+- 🎨 **[Flying Dutchman Theme](https://github.com/ADWilkinson/the-flying-dutchman-theme)** - VS Code theme.
 
 ---
 
 ### Background
 
-Built my first crypto project at ETHGlobal 2021. Joined Set Labs, then spun out **GalleonDAO** to build DeFi structured products — raised a seed round, launched products, weathered the 2022 storm.
+Started at Set Labs, then spun out **GalleonDAO** to build DeFi structured products. Raised a seed round, launched products, survived 2022.
 
-Now engineering at **ZKP2P**, building trustless fiat rails. The protocol lets you buy/sell crypto P2P using Venmo, PayPal, Wise — with ZK proofs verifying payments without exposing your data.
-
-On the side: autonomous AI agents ([Barbossa](https://barbossa.dev) ships PRs from your backlog), trading bots, and whatever else catches my interest.
+Now at **ZKP2P** building trustless fiat rails. Buy and sell crypto P2P using Venmo, PayPal, Wise with ZK proofs verifying payments.
 
 ---
 
 ### Philosophy
 
-> Ship beats perfect. Build tools that solve your own problems first.
+> Ship beats perfect.
 
-I like building things that work. Prefer small, composable pieces over monoliths. Heavy user of AI tools — Claude Code is my copilot, Barbossa handles the grunt work.
-
-The nautical theme isn't an accident. Crypto still feels like the open sea: uncharted, risky, full of opportunity for those who know how to navigate.
+I like building things that work. Small, composable pieces over monoliths. Build tools that solve your own problems first.
 
 ---
 
@@ -72,8 +68,7 @@ The nautical theme isn't an accident. Crypto still feels like the open sea: unch
 <summary>Random Facts</summary>
 
 - The Davy Jones persona started as a joke for GalleonDAO's pirate theme. It stuck.
-- First code I ever wrote was a Unity object pooling system — still gets stars occasionally.
-- I treat AI agents like junior devs: give clear specs, review their PRs, and let them handle the boring stuff.
+- First code I wrote was a Unity object pooling system. Still gets stars occasionally.
 - Prefer building in public. Most of my repos are MIT licensed.
 
 </details>

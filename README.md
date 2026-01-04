@@ -68,9 +68,9 @@ I like building things that work. Small, composable pieces over monoliths. Build
 <summary>GitHub Trivia</summary>
 
 - On GitHub since June 2017. First repo was a Unity object generator for game dev.
-- 6,537 contributions in 2025 vs 126 in 2024. AI-assisted coding changed everything.
-- 8 orgs: zkp2p, GalleonDAO, galleonlabs, gachaswap, Encode-Club-Solidity-Bootcamp, and some degen stuff (DogeNet, Beverage-Finance, DungeonChads).
+- 6,537 contributions in 2025.
+- 5 orgs: zkp2p, GalleonDAO, galleonlabs, gachaswap, Encode-Club-Solidity-Bootcamp.
 - 17 external repos contributed to, mostly in the zkp2p ecosystem.
-- Most starred repo: privateer-capital (7 stars). Not here for the clout.
+- Most starred repo: privateer-capital (7 stars).
 
 </details>

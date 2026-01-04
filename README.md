@@ -65,10 +65,12 @@ I like building things that work. Small, composable pieces over monoliths. Build
 ---
 
 <details>
-<summary>Random Facts</summary>
+<summary>GitHub Trivia</summary>
 
-- The Davy Jones persona started as a joke for GalleonDAO's pirate theme. It stuck.
-- First code I wrote was a Unity object pooling system. Still gets stars occasionally.
-- Prefer building in public. Most of my repos are MIT licensed.
+- On GitHub since June 2017. First repo was a Unity object generator for game dev.
+- 6,537 contributions in 2025 vs 126 in 2024. AI-assisted coding changed everything.
+- 8 orgs: zkp2p, GalleonDAO, galleonlabs, gachaswap, Encode-Club-Solidity-Bootcamp, and some degen stuff (DogeNet, Beverage-Finance, DungeonChads).
+- 17 external repos contributed to, mostly in the zkp2p ecosystem.
+- Most starred repo: privateer-capital (7 stars). Not here for the clout.
 
 </details>

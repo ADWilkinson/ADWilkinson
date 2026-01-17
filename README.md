@@ -17,13 +17,13 @@
 **ZKP2P Ecosystem**
 
 - ⚡ **[ZKP2P](https://zkp2p.xyz)** - P2P fiat onramp with ZK payment verification. Venmo, PayPal, Wise, Revolut, and more.
-- 📊 **[Peerlytics](https://github.com/ADWilkinson/peerlytics)** - Liquidity intelligence dashboard for ZKP2P. Pre-computed analytics, real-time events, intent explorer.
-- 💸 **[usdctofiat](https://github.com/ADWilkinson/usdctofiat)** - USDC off-ramp for makers on Base.
+- 📊 **[Peerlytics](https://peerlytics.xyz)** - Liquidity intelligence dashboard for ZKP2P. Pre-computed analytics, real-time events, intent explorer.
+- 💸 **[usdctofiat](https://usdctofiat.xyz)** - USDC off-ramp for makers on Base.
 
 **AI & Automation**
 
 - 🏴‍☠️ **[Barbossa](https://github.com/ADWilkinson/barbossa-dev)** - Autonomous AI dev pipeline. Turns backlog items into reviewed PRs.
-- 🦑 **[Jones Intern](https://github.com/ADWilkinson/davy-jones-intern)** - Multi-tenant AI assistant for Slack. BYOK Claude, GitHub/Linear integrations.
+- 🦑 **[Jones Intern](https://jonesintern.ai)** - Multi-tenant AI assistant for Slack. BYOK Claude, GitHub/Linear integrations.
 - 🛠️ **[Claude Code Tools](https://github.com/ADWilkinson/claude-code-tools)** - Custom agents, commands, skills for Claude Code.
 
 **Trading & DeFi**

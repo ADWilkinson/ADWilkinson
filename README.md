@@ -27,9 +27,12 @@ I run a homeserver that ships code while I sleep. The stack:
 
 The thesis: orchestrate AI agents with good taste and tight constraints, and they ship production code autonomously. The human role shifts from writing code to writing the systems that write code.
 
-**ZKP2P Ecosystem** (day job)
+**ZKP2P** (day job)
 
 - **[ZKP2P](https://zkp2p.xyz)** - P2P fiat onramp with ZK payment verification. Venmo, PayPal, Wise, Revolut, and more.
+
+**Galleon Labs** (personal projects built on top of ZKP2P)
+
 - **[Peerlytics](https://peerlytics.xyz)** - Liquidity intelligence dashboard. Volume-by-currency breakdowns, real-time events, intent explorer, cumulative PnL tracking.
 - **[usdctofiat](https://usdctofiat.xyz)** - USDC off-ramp for makers on Base. Delegate system with an AI-powered arbitrage bot managing rates.
 - **[Marauder](https://delegate.usdctofiat.xyz)** - Delegation landing page and dashboard with returns calculator.

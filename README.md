@@ -14,6 +14,11 @@ I build live crypto products, trading infrastructure, and the agentic systems th
 
 ---
 
+### Day To Day
+
+- **[ZKP2P](https://zkp2p.xyz)** - I work day to day on the team building P2P fiat rails with ZK payment verification.
+- My focus is the product and infrastructure around actually using the protocol: trading surfaces, liquidity tooling, analytics, and the systems that keep those products running.
+
 ### Live Products
 
 - **[galleonlabs-zkp2p](https://github.com/ADWilkinson/galleonlabs-zkp2p)** - Monorepo for the full Galleon Labs stack: live apps, Delegate bot services, SDKs, shared UI packages, and ops tooling.

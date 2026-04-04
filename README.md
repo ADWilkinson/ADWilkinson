@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚓ Davy Jones
+# Andrew Wilkinson
 
 **Senior Engineer at [Peer](https://peer.xyz)** · London
 

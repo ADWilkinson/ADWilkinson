@@ -19,9 +19,8 @@ Senior Software Engineer at [Peer](https://peer.xyz), building P2P fiat rails wi
 
 ### Live Products
 
-- **[USDCtoFiat](https://usdctofiat.xyz)** - P2P USDC off-ramp on Base with Circle CCTP bridging and automated [Delegate](https://delegate.usdctofiat.xyz) rate management.
-- **[Peerlytics](https://peerlytics.xyz)** - ZKP2P analytics, explorer, leaderboards, and a paid API with [`@peerlytics/sdk`](https://www.npmjs.com/package/@peerlytics/sdk).
-- **[Peer Orderbook](https://network.peerlytics.xyz)** - Public terminal for live P2P liquidity and protocol activity.
+- **[USDCtoFiat](https://usdctofiat.xyz)** - P2P USDC off-ramp on Base with Circle CCTP bridging and automated [Delegate](https://delegate.usdctofiat.xyz) rate management. [`@usdctofiat/offramp`](https://www.npmjs.com/package/@usdctofiat/offramp)
+- **[Peerlytics](https://peerlytics.xyz)** - ZKP2P analytics, explorer, leaderboards, public orderbook, and a paid API. [`@peerlytics/sdk`](https://www.npmjs.com/package/@peerlytics/sdk)
 
 ### AI Tools
 
@@ -31,7 +30,6 @@ I started building AI dev tools when the Claude Agent SDK first came out, before
 - **Oneshot Bot** - Slack bot wrapping Oneshot CLI. My daily harness at Peer. Converts Linear tickets into shipped PRs with parallel review agents.
 - **[Barbossa](https://barbossa.dev)** - Six autonomous agents (Engineer, Tech Lead, Discovery, PM, Auditor, Spec Generator) that coordinate through GitHub and Linear. [`github`](https://github.com/ADWilkinson/barbossa-dev)
 - **[Paperclip](https://paperclip.dev)** - Heartbeat-driven AI team that manages the Galleon Labs repo. Captain triages, Bosun ships via Oneshot, Quartermaster reviews every PR, Herald writes social content.
-- **[Claude Code Tools](https://github.com/ADWilkinson/claude-code-tools)** - Custom agents, skills, and hooks for Claude Code.
 
 ### Also Built
 
@@ -45,4 +43,4 @@ I started building AI dev tools when the Claude Agent SDK first came out, before
 [![Twitter](https://img.shields.io/badge/-@davyjones0x-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/davyjones0x)
 [![Blog](https://img.shields.io/badge/-andrewwilkinson.io-000000?style=flat-square&logo=hashnode&logoColor=white)](https://andrewwilkinson.io)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-d-wilkinson/)
-[![Email](https://img.shields.io/badge/-gm@andrewwilkinson.io-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gm@andrewwilkinson.io)
+[![Email](https://img.shields.io/badge/-gm@galleonlabs.io-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gm@galleonlabs.io)

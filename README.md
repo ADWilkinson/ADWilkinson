@@ -11,17 +11,20 @@
 <a href="https://twitter.com/andrewwilkinson"><img src="https://img.shields.io/badge/andrewwilkinson-000?style=flat-square&logo=x&logoColor=white" /></a>
 <a href="https://andrewwilkinson.io"><img src="https://img.shields.io/badge/andrewwilkinson.io-000?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/andrew-d-wilkinson/"><img src="https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:gm@galleonlabs.io"><img src="https://img.shields.io/badge/gm@galleonlabs.io-000?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="mailto:gm@andrewwilkinson.io"><img src="https://img.shields.io/badge/gm@andrewwilkinson.io-000?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 ---
 
-Product engineer who owns the full surface: product, infrastructure, instrumentation, and the internal tools the next pass needs.
+Product engineer who owns the full surface: product, infrastructure, instrumentation, and the systems that make the next pass easier.
 
-Most of 2026 has been agentic engineering. Repos, prompts, skills, bots, and review loops structured so agents can ship real production work under tight constraints. Not "AI writes code" — engineering systems that buy a small team leverage without losing taste, safety, or ownership.
+Most of 2026 has been agentic engineering. Repos, prompts, skills, bots, and review loops structured so agents can ship real production work under tight constraints. Not "AI writes code" — the engineering systems around the code.
 
-**2026 so far:** 1,221 commits · 89 pull requests · 24 reviews · 72 issues across agent tooling, ZKP2P ecosystem apps, trading systems, SDKs, and docs.
+**2026 so far:**
+<!-- STATS:START -->
+1,221 commits · 89 pull requests · 24 reviews · 72 issues across agent tooling, ZKP2P ecosystem apps, trading systems, SDKs, and docs.
+<!-- STATS:END -->
 
 ## What I Build
 

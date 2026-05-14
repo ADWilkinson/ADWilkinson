@@ -4,7 +4,7 @@
 
 **Senior Product Engineer at [ZKP2P](https://zkp2p.xyz)** · London
 
-<sub>Building P2P payment infrastructure, agentic engineering systems, and the tools around whatever I am working on.<br>Former founder of Galleon DAO ($1M raised, $20M+ TVL).</sub>
+<sub>P2P payment infrastructure, agentic engineering systems, and the internal tools around whatever I am working on.<br>Former founder of Galleon DAO ($1M raised, $20M+ TVL).</sub>
 
 <br>
 
@@ -17,9 +17,9 @@
 
 ---
 
-I am a product engineer who likes owning the full loop: understand the problem, build the product, wire the infrastructure, instrument the system, and create the internal tools that help the team move faster next time.
+Product engineer who owns the full surface: product, infrastructure, instrumentation, and the internal tools the next pass needs.
 
-In 2026 I have been especially focused on agentic engineering: structuring repos, prompts, skills, bots, and review loops so agents can do real production work with tight constraints. The useful version is not "AI writes code". It is engineering systems that give a small team more leverage without losing taste, safety, or ownership.
+Most of 2026 has been agentic engineering. Repos, prompts, skills, bots, and review loops structured so agents can ship real production work under tight constraints. Not "AI writes code" — engineering systems that buy a small team leverage without losing taste, safety, or ownership.
 
 **2026 so far:** 1,221 commits · 89 pull requests · 24 reviews · 72 issues across agent tooling, ZKP2P ecosystem apps, trading systems, SDKs, and docs.
 
@@ -28,10 +28,10 @@ In 2026 I have been especially focused on agentic engineering: structuring repos
 **Agentic engineering**
 
 - [Oneshot CLI](https://github.com/ADWilkinson/oneshot-cli) · repo + task in, reviewed PR out.
-- Oneshot Bot · Slack and Linear control plane I use at ZKP2P to dispatch work, monitor PRs, and multiply day-to-day product engineering output.
+- Oneshot Bot · Slack and Linear control plane I use at ZKP2P to dispatch Oneshot CLI runs, track PRs, and operate product engineering work straight from the team channel.
 - [Barbossa](https://github.com/ADWilkinson/barbossa-dev) · autonomous development pipeline for GitHub and Linear.
 - [Claude Code Tools](https://github.com/ADWilkinson/claude-code-tools) · agents, skills, hooks, and workflow guardrails.
-- Paperclip-managed repo crews · autonomous managers for Peerlytics and USDCtoFiat, built on top of [Paperclip](https://github.com/ADWilkinson/paperclip).
+- Paperclip-managed repo crews · autonomous managers for Peerlytics and USDCtoFiat that I run on top of [Paperclip](https://github.com/ADWilkinson/paperclip). Paperclip isn't my project — I use it as the orchestration layer.
 
 **ZKP2P ecosystem**
 
@@ -49,9 +49,9 @@ In 2026 I have been especially focused on agentic engineering: structuring repos
 
 ## Background
 
-Before ZKP2P I founded [Galleon DAO](https://github.com/GalleonDAO), a DeFi structured-products protocol that raised $1M and reached $20M+ TVL. Before that I worked across fintech, payments, enterprise blockchain, growth, and product engineering.
+Before ZKP2P I founded [Galleon DAO](https://github.com/GalleonDAO), a DeFi structured-products protocol that raised $1M and reached $20M+ TVL. Before that, fintech, payments, enterprise blockchain, growth, and product engineering.
 
-My current lane is the intersection of product engineering, crypto/payment infrastructure, and agentic tooling: build the product, then build the machines that help the team keep shipping it.
+Today: product engineering, payment infrastructure, and agentic tooling. Build the product, then build the machines that keep the team shipping it.
 
 ## Links
 

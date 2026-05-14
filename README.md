@@ -21,11 +21,6 @@ Product engineer who owns the full surface: product, infrastructure, instrumenta
 
 Most of 2026 has been agentic engineering. Repos, prompts, skills, bots, and review loops structured so agents can ship real production work under tight constraints. Not "AI writes code" — the engineering systems around the code.
 
-**2026 so far:**
-<!-- STATS:START -->
-1,221 commits · 89 pull requests · 24 reviews · 72 issues across agent tooling, ZKP2P ecosystem apps, trading systems, SDKs, and docs.
-<!-- STATS:END -->
-
 ## What I Build
 
 **Agentic engineering**

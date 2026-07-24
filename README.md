@@ -27,9 +27,10 @@ Most of 2026 has been agentic engineering. Repos, prompts, skills, bots, and rev
 
 - [Oneshot CLI](https://github.com/ADWilkinson/oneshot-cli) · repo + task in, reviewed PR out.
 - Oneshot Bot · Slack and Linear control plane I use at ZKP2P to dispatch Oneshot CLI runs, track PRs, and operate product engineering work straight from the team channel.
-- [Barbossa](https://github.com/ADWilkinson/barbossa-dev) · autonomous development pipeline for GitHub and Linear.
+- Shipwright · repo-native issue-to-PR and review fleet for the ZKP2P ecosystem apps.
 - [Claude Code Tools](https://github.com/ADWilkinson/claude-code-tools) · agents, skills, hooks, and workflow guardrails.
-- Paperclip-managed repo crews · autonomous managers for Peerlytics and USDCtoFiat that I run on top of [Paperclip](https://github.com/ADWilkinson/paperclip). Paperclip isn't my project — I use it as the orchestration layer.
+
+Earlier work: [Barbossa](https://github.com/ADWilkinson/barbossa-dev), the autonomous development pipeline that preceded Oneshot.
 
 **ZKP2P ecosystem**
 

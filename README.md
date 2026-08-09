@@ -2,14 +2,15 @@
 
 # Andrew Wilkinson
 
-**Senior Product Engineer at [ZKP2P](https://zkp2p.xyz)** · London
+**Senior Product Engineer at [Peer](https://zkp2p.xyz)** · Building [Galleon](https://galleonlabs.io)
 
-<sub>P2P payment infrastructure, agentic engineering systems, and the internal tools around whatever I am working on.<br>Former founder of Galleon DAO ($1M raised, $20M+ TVL).</sub>
+<sub>P2P payment infrastructure and agentic engineering systems at work.<br>Independent products, agents, games, and experiments under Galleon.</sub>
 
 <br>
 
 <a href="https://twitter.com/andrewwilkinson"><img src="https://img.shields.io/badge/andrewwilkinson-000?style=flat-square&logo=x&logoColor=white" /></a>
 <a href="https://andrewwilkinson.io"><img src="https://img.shields.io/badge/andrewwilkinson.io-000?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://galleonlabs.io"><img src="https://img.shields.io/badge/Galleon-025BEE?style=flat-square" /></a>
 <a href="https://www.linkedin.com/in/andrew-d-wilkinson/"><img src="https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:gm@andrewwilkinson.io"><img src="https://img.shields.io/badge/gm@andrewwilkinson.io-000?style=flat-square&logo=gmail&logoColor=white" /></a>
 
@@ -22,6 +23,8 @@ Product engineer who owns the full surface: product, infrastructure, instrumenta
 Most of 2026 has been agentic engineering. Repos, prompts, skills, bots, and review loops structured so agents can ship real production work under tight constraints. Not "AI writes code" — the engineering systems around the code.
 
 ## What I Build
+
+**[Galleon](https://galleonlabs.io)** is the umbrella for my independent products, agents, games, and experiments. Each project keeps its own name and purpose; Galleon gives the work a shared address and a clear owner.
 
 **Agentic engineering**
 
@@ -48,12 +51,13 @@ Earlier work: [Barbossa](https://github.com/ADWilkinson/barbossa-dev), the auton
 
 ## Background
 
-Before ZKP2P I founded [Galleon DAO](https://github.com/GalleonDAO), a DeFi structured-products protocol that raised $1M and reached $20M+ TVL. Before that, fintech, payments, enterprise blockchain, growth, and product engineering.
+Before ZKP2P I founded [Galleon DAO](https://github.com/GalleonDAO), a DeFi structured-products protocol that raised $1M and reached $20M+ TVL. The modern Galleon umbrella grows from that chapter but is a broader, active home for my independent work. Before that: fintech, payments, enterprise blockchain, growth, and product engineering.
 
 Today: product engineering, payment infrastructure, and agentic tooling. Build the product, then build the machines that keep the team shipping it.
 
 ## Links
 
 **Website** · [andrewwilkinson.io](https://andrewwilkinson.io)<br>
+**Independent work** · [Galleon](https://galleonlabs.io) · [GitHub organisation](https://github.com/galleonlabs)<br>
 **Packages** · [`oneshot-ship`](https://www.npmjs.com/package/oneshot-ship) · [`@peerlytics/sdk`](https://www.npmjs.com/package/@peerlytics/sdk) · [`@usdctofiat/offramp`](https://www.npmjs.com/package/@usdctofiat/offramp)<br>
 **Social** · [X](https://twitter.com/andrewwilkinson) · [LinkedIn](https://www.linkedin.com/in/andrew-d-wilkinson/)

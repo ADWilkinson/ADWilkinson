@@ -2,15 +2,15 @@
 
 # Andrew Wilkinson
 
-**Senior Product Engineer at [Peer](https://zkp2p.xyz)** · Building [Galleon](https://galleonlabs.io)
+**Senior Product Engineer at [Peer](https://zkp2p.xyz)** · Running [Galleon Labs](https://galleonlabs.io)
 
-<sub>P2P payment infrastructure and agentic engineering systems at work.<br>Independent products, agents, games, and experiments under Galleon.</sub>
+<sub>P2P payment infrastructure and agentic engineering systems at work.<br>Agents that do the work, and the USDCtoFiat and Peerlytics products, at Galleon Labs.</sub>
 
 <br>
 
 <a href="https://twitter.com/andrewwilkinson"><img src="https://img.shields.io/badge/andrewwilkinson-000?style=flat-square&logo=x&logoColor=white" /></a>
 <a href="https://andrewwilkinson.io"><img src="https://img.shields.io/badge/andrewwilkinson.io-000?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="https://galleonlabs.io"><img src="https://img.shields.io/badge/Galleon-025BEE?style=flat-square" /></a>
+<a href="https://galleonlabs.io"><img src="https://img.shields.io/badge/Galleon_Labs-025BEE?style=flat-square" /></a>
 <a href="https://www.linkedin.com/in/andrew-d-wilkinson/"><img src="https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:gm@andrewwilkinson.io"><img src="https://img.shields.io/badge/gm@andrewwilkinson.io-000?style=flat-square&logo=gmail&logoColor=white" /></a>
 
@@ -24,40 +24,41 @@ Most of 2026 has been agentic engineering. Repos, prompts, skills, bots, and rev
 
 ## What I Build
 
-**[Galleon](https://galleonlabs.io)** is the umbrella for my independent products, agents, games, and experiments. Each project keeps its own name and purpose; Galleon gives the work a shared address and a clear owner.
+**[Galleon Labs](https://galleonlabs.io)** is my agents practice: agents that own a job from request to verified result, built and run by me. Two things live under it — the ZKP2P products and the agents that run them. Everything else below is my own.
 
-**Agentic engineering**
+**ZKP2P products, by Galleon Labs**
 
-- [Oneshot CLI](https://github.com/ADWilkinson/oneshot-cli) · repo + task in, reviewed PR out.
-- Oneshot Bot · Slack and Linear control plane I use at ZKP2P to dispatch Oneshot CLI runs, track PRs, and operate product engineering work straight from the team channel.
-- Shipwright · repo-native issue-to-PR and review fleet for the ZKP2P ecosystem apps.
+- [USDCtoFiat](https://usdctofiat.xyz) · the simple cash-out: sell Base USDC for money in everyday payment apps; bridge, tax packs, referrals, and the Delegate strategy behind Best.
+- [Peerlytics](https://peerlytics.xyz) · the Peer explorer and advanced client, plus a paid API.
+- Distribution · [`@usdctofiat/offramp`](https://www.npmjs.com/package/@usdctofiat/offramp), [`@peerlytics/sdk`](https://www.npmjs.com/package/@peerlytics/sdk), [`usdctofiat`](https://pypi.org/project/usdctofiat/) on PyPI, [Hermes](https://github.com/ADWilkinson/usdctofiat-hermes-plugin) and [elizaOS](https://github.com/ADWilkinson/plugin-peer-cash) plugins, and [usdctofiat-peerlytics-starters](https://github.com/ADWilkinson/usdctofiat-peerlytics-starters).
+- [KnowFulham](https://knowfulham.com) · an opinionated guide to west London — handpicked places, an interactive map, community signals.
+
+**Agents, by Galleon Labs**
+
+- Oneshot · my Slack-native work agent: request in the team channel, reviewed PRs and verified deploys out.
+- Barbossa · the agentic overseer for the fleet: product health, scheduled agent teams (Shipwright ships the ZKP2P apps, KnowShip runs KnowFulham), investigations, releases.
+- Davy Jones · an evolving "AI-me" experiment with its own identity, tools, channels, and a bounded wallet; publishes its own research as [@davyjonesintern](https://github.com/davyjonesintern).
+- [HyperGrok Trading Desk](https://github.com/galleonlabs/hypergrok-trading-desk) · open source: turn a Grok Bot into a seven-agent Hyperliquid trading desk.
+- [andrewwilkinson.io](https://andrewwilkinson.io) · this site, regenerated from scratch every week by an agentic pipeline.
+
+**Side projects (mine, not Galleon)**
+
+- [Broadside](https://broadside.fun) · fast multiplayer naval combat in the browser.
+- [HL Privateer](https://github.com/ADWilkinson/hlprivateer.xyz) · a concluded experiment in running an agentic trading desk on Hyperliquid, self-hosted and TypeScript-first.
+- [The Flying Dutchman Theme](https://github.com/ADWilkinson/the-flying-dutchman-theme) · an artisan nautical dark theme for VS Code and six other developer surfaces.
 - [Claude Code Tools](https://github.com/ADWilkinson/claude-code-tools) · agents, skills, hooks, and workflow guardrails.
 
-Earlier work: [Barbossa](https://github.com/ADWilkinson/barbossa-dev), the autonomous development pipeline that preceded Oneshot.
-
-**ZKP2P ecosystem**
-
-- [ZKP2P](https://zkp2p.xyz) · P2P fiat rails with zero-knowledge payment verification.
-- [Peerlytics](https://peerlytics.xyz) · protocol analytics, orderbook intelligence, and explorer workflows.
-- [USDCtoFiat](https://usdctofiat.xyz) · P2P USDC off-ramp and liquidity delegation tools.
-- [usdctofiat-peerlytics-starters](https://github.com/ADWilkinson/usdctofiat-peerlytics-starters) · examples and skills for the published SDKs.
-
-**Systems and side projects**
-
-- [HL Privateer](https://github.com/ADWilkinson/hlprivateer.xyz) · self-hosted, TypeScript-first agentic Hyperliquid trading system.
-- [Broadside](https://broadside.fun) · multiplayer browser game.
-- [KnowFulham](https://knowfulham.com) · local discovery guide with maps, places, and community signals.
-- [The Flying Dutchman Theme](https://github.com/ADWilkinson/the-flying-dutchman-theme) · VS Code theme.
+Earlier work: [Oneshot CLI](https://github.com/ADWilkinson/oneshot-cli) and [barbossa-dev](https://github.com/ADWilkinson/barbossa-dev), the open-source predecessors of today's Oneshot and Barbossa.
 
 ## Background
 
-Before ZKP2P I founded [Galleon DAO](https://github.com/GalleonDAO), a DeFi structured-products protocol that raised $1M and reached $20M+ TVL. The modern Galleon umbrella grows from that chapter but is a broader, active home for my independent work. Before that: fintech, payments, enterprise blockchain, growth, and product engineering.
+Before ZKP2P I founded [Galleon DAO](https://github.com/GalleonDAO), a DeFi structured-products protocol that raised $1M and reached $20M+ TVL. Galleon Labs grows from that chapter but is a different thing: an agents practice with its own products. Before that: fintech, payments, enterprise blockchain, growth, and product engineering.
 
 Today: product engineering, payment infrastructure, and agentic tooling. Build the product, then build the machines that keep the team shipping it.
 
 ## Links
 
 **Website** · [andrewwilkinson.io](https://andrewwilkinson.io)<br>
-**Independent work** · [Galleon](https://galleonlabs.io) · [GitHub organisation](https://github.com/galleonlabs)<br>
-**Packages** · [`oneshot-ship`](https://www.npmjs.com/package/oneshot-ship) · [`@peerlytics/sdk`](https://www.npmjs.com/package/@peerlytics/sdk) · [`@usdctofiat/offramp`](https://www.npmjs.com/package/@usdctofiat/offramp)<br>
+**Independent work** · [Galleon Labs](https://galleonlabs.io) · [GitHub organisation](https://github.com/galleonlabs)<br>
+**Packages** · [`@usdctofiat/offramp`](https://www.npmjs.com/package/@usdctofiat/offramp) · [`@peerlytics/sdk`](https://www.npmjs.com/package/@peerlytics/sdk) · [`usdctofiat`](https://pypi.org/project/usdctofiat/)<br>
 **Social** · [X](https://twitter.com/andrewwilkinson) · [LinkedIn](https://www.linkedin.com/in/andrew-d-wilkinson/)

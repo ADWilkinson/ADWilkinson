@@ -8,11 +8,11 @@
 
 <br>
 
-<a href="https://twitter.com/andrewwilkinson"><img src="https://img.shields.io/badge/andrewwilkinson-000?style=flat-square&logo=x&logoColor=white" /></a>
-<a href="https://andrewwilkinson.io"><img src="https://img.shields.io/badge/andrewwilkinson.io-000?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="https://galleonlabs.io"><img src="https://img.shields.io/badge/Galleon_Labs-025BEE?style=flat-square" /></a>
-<a href="https://www.linkedin.com/in/andrew-d-wilkinson/"><img src="https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:gm@andrewwilkinson.io"><img src="https://img.shields.io/badge/gm@andrewwilkinson.io-000?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://twitter.com/andrewwilkinson"><img alt="andrewwilkinson on X" src="https://img.shields.io/badge/andrewwilkinson-000?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="https://andrewwilkinson.io"><img alt="andrewwilkinson.io" src="https://img.shields.io/badge/andrewwilkinson.io-000?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://galleonlabs.io"><img alt="Galleon Labs" src="https://img.shields.io/badge/Galleon_Labs-025BEE?style=flat-square" /></a>
+<a href="https://www.linkedin.com/in/andrew-d-wilkinson/"><img alt="Andrew Wilkinson on LinkedIn" src="https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:gm@andrewwilkinson.io"><img alt="Email gm@andrewwilkinson.io" src="https://img.shields.io/badge/gm@andrewwilkinson.io-000?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </div>
 

@@ -45,7 +45,7 @@ Most of 2026 has been agentic engineering. Repos, prompts, skills, bots, and rev
 
 - [Broadside](https://broadside.fun) · fast multiplayer naval combat in the browser.
 - [HL Privateer](https://github.com/ADWilkinson/hlprivateer.xyz) · a concluded experiment in running an agentic trading desk on Hyperliquid, self-hosted and TypeScript-first.
-- [The Flying Dutchman Theme](https://github.com/ADWilkinson/this-repo-does-not-exist-linkcheck-probe) · an artisan nautical dark theme for VS Code and six other developer surfaces.
+- [The Flying Dutchman Theme](https://github.com/ADWilkinson/the-flying-dutchman-theme) · an artisan nautical dark theme for VS Code and six other developer surfaces.
 - [Claude Code Tools](https://github.com/ADWilkinson/claude-code-tools) · agents, skills, hooks, and workflow guardrails.
 
 Earlier work: [Oneshot CLI](https://github.com/ADWilkinson/oneshot-cli) and [barbossa-dev](https://github.com/ADWilkinson/barbossa-dev), the open-source predecessors of today's Oneshot and Barbossa.

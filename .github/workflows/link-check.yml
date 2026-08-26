@@ -23,8 +23,11 @@ permissions:
   contents: read
 
 concurrency:
-  group: link-check-${{ github.ref }}
-  cancel-in-progress: true
+  group: link-check-${{ github.event_name }}-${{ github.ref }}
+  # Only supersede in-flight PR runs. A push to main must never cancel the
+  # weekly scan mid-flight: a cancelled run is neither red nor green, so the
+  # weekly guarantee would silently skip a week.
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
 
 jobs:
   links:
@@ -38,26 +41,33 @@ jobs:
           # No --cache / .lycheecache: every run re-checks every link, so a
           # newly broken link can never be masked by a stale cached success.
           #
-          # --remap: www.npmjs.com returns 403 to every non-browser user agent,
-          # so the package pages are unverifiable as written. Check the
-          # authoritative registry entry instead. Both packages are live
-          # (@peerlytics/sdk, @usdctofiat/offramp) -- if this ever goes red the
-          # package really is gone. Do not "fix" it by deleting the README links.
+          # --remap: npmjs.com returns 403 to every non-browser user agent, so the
+          # package pages are unverifiable as written. Check the authoritative
+          # registry entry instead. The pattern covers the bare host as well as
+          # www., because a bare-host link would otherwise bypass the remap and
+          # go red on a 403 for a package that is perfectly alive. Both packages
+          # are live (@peerlytics/sdk, @usdctofiat/offramp) -- if this goes red
+          # the package really is gone. Do not "fix" it by deleting the links.
           #
-          # --exclude linkedin.com: LinkedIn answers HTTP 999 (anti-bot) to any
-          # non-browser client, browser user agent or not. Excluded by host so it
-          # cannot produce a weekly false red; excluding one host is preferable to
-          # loosening accepted status codes for every link.
+          # --exclude linkedin.com: LinkedIn rate-limits non-browser clients
+          # unpredictably. Ten identical probes from one host returned 200 eight
+          # times, 999 once and 429 once, so this link cannot be checked without
+          # generating false weekly reds. Excluded by host, which is preferable
+          # to loosening accepted status codes for every link.
           #
           # Also excluded by lychee itself, not by us:
           #   - twitter.com  -- built-in UNSUPPORTED_DOMAINS (requires an account)
           #   - mailto:      -- --include-mail is off by default
           # That leaves 27 of the README's 30 unique targets actually checked.
+          #
+          # Retries and timeout are deliberately above lychee's defaults (3 / 1s / 20s)
+          # to absorb transient slowness rather than report it as link rot.
           args: >-
             --no-progress
             --verbose
-            --max-retries 3
-            --timeout 20
-            --remap 'https://www.npmjs.com/package/(.*) https://registry.npmjs.org/$1'
+            --max-retries 5
+            --retry-wait-time 3
+            --timeout 30
+            --remap 'https://(www\.)?npmjs\.com/package/(.*) https://registry.npmjs.org/$2'
             --exclude '^https://(www\.)?linkedin\.com/'
             README.md

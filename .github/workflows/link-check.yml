@@ -56,9 +56,13 @@ jobs:
           # to loosening accepted status codes for every link.
           #
           # Also excluded by lychee itself, not by us:
-          #   - twitter.com  -- built-in UNSUPPORTED_DOMAINS (requires an account)
           #   - mailto:      -- --include-mail is off by default
-          # That leaves 27 of the README's 30 unique targets actually checked.
+          # That leaves 28 of the README's 30 unique targets actually checked.
+          # x.com used to be twitter.com, which lychee skips via its built-in
+          # UNSUPPORTED_DOMAINS. x.com is not on that list, so the profile link
+          # is now genuinely checked: five identical probes returned 200 every
+          # time. If it starts flapping, exclude it by host as above rather than
+          # reverting to the twitter.com domain, which only 301s here anyway.
           #
           # Retries and timeout are deliberately above lychee's defaults (3 / 1s / 20s)
           # to absorb transient slowness rather than report it as link rot.

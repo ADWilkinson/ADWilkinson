@@ -2,13 +2,13 @@
 
 # Andrew Wilkinson
 
-**Senior Product Engineer at [Peer](https://zkp2p.xyz)** · Running [Galleon Labs](https://galleonlabs.io)
+**Senior Product Engineer at [Peer](https://peer.xyz)** · Running [Galleon Labs](https://galleonlabs.io)
 
 <sub>P2P payment infrastructure and agentic engineering systems at work.<br>Agents that do the work, and the USDCtoFiat and Peerlytics products, at Galleon Labs.</sub>
 
 <br>
 
-<a href="https://twitter.com/andrewwilkinson"><img alt="andrewwilkinson on X" src="https://img.shields.io/badge/andrewwilkinson-000?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="https://x.com/andrewwilkinson"><img alt="andrewwilkinson on X" src="https://img.shields.io/badge/andrewwilkinson-000?style=flat-square&logo=x&logoColor=white" /></a>
 <a href="https://andrewwilkinson.io"><img alt="andrewwilkinson.io" src="https://img.shields.io/badge/andrewwilkinson.io-000?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="https://galleonlabs.io"><img alt="Galleon Labs" src="https://img.shields.io/badge/Galleon_Labs-025BEE?style=flat-square" /></a>
 <a href="https://www.linkedin.com/in/andrew-d-wilkinson/"><img alt="Andrew Wilkinson on LinkedIn" src="https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -61,4 +61,4 @@ Today: product engineering, payment infrastructure, and agentic tooling. Build t
 **Website** · [andrewwilkinson.io](https://andrewwilkinson.io)<br>
 **Independent work** · [Galleon Labs](https://galleonlabs.io) · [GitHub organisation](https://github.com/galleonlabs)<br>
 **Packages** · [`@usdctofiat/offramp`](https://www.npmjs.com/package/@usdctofiat/offramp) · [`@peerlytics/sdk`](https://www.npmjs.com/package/@peerlytics/sdk) · [`usdctofiat`](https://pypi.org/project/usdctofiat/)<br>
-**Social** · [X](https://twitter.com/andrewwilkinson) · [LinkedIn](https://www.linkedin.com/in/andrew-d-wilkinson/)
+**Social** · [X](https://x.com/andrewwilkinson) · [LinkedIn](https://www.linkedin.com/in/andrew-d-wilkinson/)

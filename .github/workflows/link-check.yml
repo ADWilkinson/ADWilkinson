@@ -15,8 +15,18 @@ on:
       - README.md
       - .github/workflows/link-check.yml
   schedule:
-    # Weekly, Monday 07:00 UTC.
-    - cron: '0 7 * * 1'
+    # Weekly, Monday, deliberately off the top of the hour. GitHub delays
+    # schedule events under load and documents the start of every hour as the
+    # worst slot; a run delayed past its window is dropped, not queued.
+    #
+    # The original '0 7 * * 1' never delivered. On its first scheduled Monday
+    # (2026-08-31) no scheduled run existed seven hours after it was due, while
+    # a manual dispatch of this same workflow completed in 10s -- so the
+    # workflow was healthy and only the trigger was lost. That is precisely the
+    # silently skipped week the concurrency rule below also guards against.
+    #
+    # Keep the minute off :00 if this is ever retimed.
+    - cron: '37 7 * * 1'
   workflow_dispatch:
 
 permissions:

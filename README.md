@@ -31,7 +31,6 @@ Most of 2026 has been agentic engineering. Repos, prompts, skills, bots, and rev
 - [USDCtoFiat](https://usdctofiat.xyz) · the simple cash-out: sell Base USDC for money in everyday payment apps; bridge, tax packs, referrals, and the Delegate strategy behind Best.
 - [Peerlytics](https://peerlytics.xyz) · the Peer explorer and advanced client, plus a paid API.
 - Distribution · [`@usdctofiat/offramp`](https://www.npmjs.com/package/@usdctofiat/offramp), [`@peerlytics/sdk`](https://www.npmjs.com/package/@peerlytics/sdk), [`usdctofiat`](https://pypi.org/project/usdctofiat/) on PyPI, [Hermes](https://github.com/ADWilkinson/usdctofiat-hermes-plugin) and [elizaOS](https://github.com/ADWilkinson/plugin-peer-cash) plugins, and [usdctofiat-peerlytics-starters](https://github.com/ADWilkinson/usdctofiat-peerlytics-starters).
-- [KnowFulham](https://knowfulham.com) · an opinionated guide to west London — handpicked places, an interactive map, community signals.
 
 **Agents, by Galleon Labs**
 
@@ -43,6 +42,7 @@ Most of 2026 has been agentic engineering. Repos, prompts, skills, bots, and rev
 
 **Side projects (mine, not Galleon)**
 
+- [KnowFulham](https://knowfulham.com) · an opinionated guide to west London — handpicked places, an interactive map, community signals.
 - [Broadside](https://broadside.fun) · fast multiplayer naval combat in the browser.
 - [HL Privateer](https://github.com/ADWilkinson/hlprivateer.xyz) · a concluded experiment in running an agentic trading desk on Hyperliquid, self-hosted and TypeScript-first.
 - [The Flying Dutchman Theme](https://github.com/ADWilkinson/the-flying-dutchman-theme) · an artisan nautical dark theme for VS Code and six other developer surfaces.

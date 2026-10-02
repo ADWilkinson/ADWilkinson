@@ -35,9 +35,9 @@ More at **[github.com/galleonlabs](https://github.com/galleonlabs)**.
 ## Games and experiments
 
 - **[Broadside](https://broadside.fun)** — multiplayer pirate ship combat in the browser.
-- **Quickdraw** — a persistent pixel archer game in development, with a shared forest, autonomous combat, and loot at risk.
+- **Quickdraw** — an archived pixel archer experiment, with a shared forest, autonomous combat, and loot at risk.
 - **[The Flying Dutchman](https://github.com/ADWilkinson/the-flying-dutchman-theme)** — a nautical dark theme for VS Code and other developer tools.
-- **[andrewwilkinson.io](https://andrewwilkinson.io)** — an experiment in having an agent regenerate my personal site each week.
+- **[andrewwilkinson.io](https://andrewwilkinson.io)** — my personal site, with a fixed design and a preserved agent generation pipeline.
 
 ## Background
 

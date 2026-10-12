@@ -34,6 +34,7 @@ More at **[github.com/galleonlabs](https://github.com/galleonlabs)**.
 
 ## Games and experiments
 
+- **[RampRidge](https://www.rampridge.xyz)** — Old School RuneScape's Varrock West Bank, rebuilt as a live peer-to-peer USDC exchange on Peer ([source](https://github.com/ADWilkinson/rampridge)).
 - **[Broadside](https://broadside.fun)** — multiplayer pirate ship combat in the browser.
 - **Quickdraw** — an archived pixel archer experiment, with a shared forest, autonomous combat, and loot at risk.
 - **[The Flying Dutchman](https://github.com/ADWilkinson/the-flying-dutchman-theme)** — a nautical dark theme for VS Code and other developer tools.

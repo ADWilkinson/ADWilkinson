@@ -30,7 +30,7 @@ More at **[github.com/galleonlabs](https://github.com/galleonlabs)**.
 - **[tokensto.cash](https://tokensto.cash)** — sell spare AI model capacity for USDC, then cash out to a supported payment account.
 - **[USDCtoFiat](https://usdctofiat.xyz)** — sell USDC on Base for money in everyday payment apps.
 - **[Peerlytics](https://peerlytics.xyz)** — explore Peer activity and payment markets.
-- **[KnowFulham](https://knowfulham.com)** — my handpicked places and field guides for Fulham, with an interactive neighbourhood map.
+- **[KnowFulham](https://knowfulham.com), [KnowChelsea](https://knowchelsea.com) and [KnowNottingHill](https://knownottinghill.com)** — handpicked places and field guides for three West London neighbourhoods, each with an interactive map.
 
 ## Games and experiments
 

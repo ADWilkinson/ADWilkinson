@@ -2,46 +2,41 @@
 
 # Andrew Wilkinson
 
-**Senior Product Engineer at [Peer](https://peer.xyz) · Building [Galleon Labs](https://galleonlabs.io)**
+**I build and run products with a team of agents.**
 
-Payments, agents, games, and independent products.
+Founded Galleon DAO (raised about $1M, past $20M TVL at peak). Now running [Galleon Labs](https://galleonlabs.io) and building at [Peer](https://peer.xyz).
 
-[Website](https://andrewwilkinson.io) · [X](https://x.com/andrewwilkinson) · [LinkedIn](https://www.linkedin.com/in/andrew-d-wilkinson/) · [Email](mailto:gm@galleonlabs.io)
+[Website](https://andrewwilkinson.io) · [X](https://x.com/andrewwilkinson) · [LinkedIn](https://www.linkedin.com/in/andrew-d-wilkinson/) · [Ship log](https://andrewwilkinson.io/ships/) · [Email](mailto:gm@galleonlabs.io)
 
 </div>
 
 ---
 
-I'm a product engineer in London. At **[Peer](https://peer.xyz)**, I work on peer-to-peer payments and the engineering systems behind them. Through **[Galleon Labs](https://galleonlabs.io)**, I build independent products and agents that help develop, ship, and run them.
+I'm a product engineer and founder in London. Galleon Labs is my lab: a set of live products in stablecoin cash-out, AI compute and local discovery, plus the agents that build, ship and run them. At Peer, where I'm an independent contractor, I work on peer-to-peer payments and the systems behind them.
 
-My work spans the interface, backend, infrastructure, and instrumentation. Much of it now involves giving agents useful tools, clear responsibilities, and ways to verify the work they do.
+## Open source
 
-## Agents and open source
-
-- **[Boomkin](https://github.com/galleonlabs/boomkin)** — a Hermes agent wired for DeFi, with modular skill packs, market data, and optional wallet connections.
-- **[crypto-defi-skills](https://github.com/galleonlabs/crypto-defi-skills)** — installable skills for liquidity provision, Hyperliquid, lending, yield, portfolio management, and other DeFi workflows.
-- **[HyperGrok Trading Desk](https://github.com/galleonlabs/hypergrok-trading-desk)** — turn a Grok Bot into a seven-role Hyperliquid trading desk.
-- **[Davy Jones](https://x.com/davyjonesintern)** — the lab's public agent, sharing builds, guides, and results.
-
-More at **[github.com/galleonlabs](https://github.com/galleonlabs)**.
+| Project | What it does | Proof |
+|---|---|---|
+| [HyperGrok](https://github.com/galleonlabs/hypergrok-trading-desk) | Open-source Hyperliquid trading desk for agents: seven roles and seventeen skills, in Grok Bot, Claude Code, Cursor, Codex and Gemini CLI | $5k sponsorship |
+| [claude-code-tools](https://github.com/ADWilkinson/claude-code-tools) | The agents, skills and hooks I use every day in Claude Code | Plugin and skills.sh |
+| [crypto-defi-skills](https://github.com/galleonlabs/crypto-defi-skills) | DeFi skills for agents: lending, liquidity, routing, portfolio review | [Benchmark](https://github.com/galleonlabs/crypto-defi-skills/blob/main/docs/BENCHMARK.md): 86 of 90 strict passes with skills, 66 of 90 without |
+| [Boomkin](https://github.com/galleonlabs/boomkin) | A local DeFi research desk for agents | npm `boomkin` |
+| [barbossa-dev](https://github.com/ADWilkinson/barbossa-dev) | My earlier autonomous development pipeline, retired and kept for reference | |
+| [The Flying Dutchman](https://github.com/ADWilkinson/the-flying-dutchman-theme) | A nautical dark theme for VS Code and other developer tools | |
 
 ## Products
 
-- **[tokensto.cash](https://tokensto.cash)** — sell spare AI model capacity for USDC, then cash out to a supported payment account.
-- **[USDCtoFiat](https://usdctofiat.xyz)** — sell USDC on Base for money in everyday payment apps.
-- **[Peerlytics](https://peerlytics.xyz)** — explore Peer activity and payment markets.
-- **[KnowFulham](https://knowfulham.com), [KnowChelsea](https://knowchelsea.com) and [KnowNottingHill](https://knownottinghill.com)** — handpicked places and field guides for three West London neighbourhoods, each with an interactive map.
-
-## Games and experiments
-
-- **[RampRidge](https://www.rampridge.xyz)** — Old School RuneScape's Varrock West Bank, rebuilt as a live peer-to-peer USDC exchange on Peer ([source](https://github.com/ADWilkinson/rampridge)).
-- **[Broadside](https://broadside.fun)** — multiplayer pirate ship combat in the browser.
-- **Quickdraw** — an archived pixel archer experiment, with a shared forest, autonomous combat, and loot at risk.
-- **[The Flying Dutchman](https://github.com/ADWilkinson/the-flying-dutchman-theme)** — a nautical dark theme for VS Code and other developer tools.
-- **[andrewwilkinson.io](https://andrewwilkinson.io)** — my personal site, with a fixed design and a preserved agent generation pipeline.
+| Product | What it does | Milestone (Oct 2026) |
+|---|---|---|
+| [tokensto.cash](https://tokensto.cash) | Sell spare AI model capacity for USDC, paid per request | 814M+ tokens sold |
+| [USDCtoFiat](https://usdctofiat.xyz) | Sell USDC on Base for money in everyday payment apps | $610k+ deposited |
+| [Lettance](https://lettance.com) | What a landlord in England must do, council by council, also usable from Claude and ChatGPT | 170 of 296 English councils researched |
+| Know London | Handpicked guides to [Fulham](https://knowfulham.com), [Chelsea](https://knowchelsea.com) and [Notting Hill](https://knownottinghill.com), each with an interactive map | |
+| [Broadside](https://broadside.fun) | Multiplayer pirate ship combat in the browser | |
+| [Peerlytics](https://peerlytics.xyz) | Explorer for the Peer protocol | |
+| [RampRidge](https://www.rampridge.xyz) | Old School RuneScape's Varrock West Bank, rebuilt as a live peer-to-peer USDC exchange on Peer ([source](https://github.com/ADWilkinson/rampridge)) | |
 
 ## Background
 
-Before Peer, I founded **[Galleon DAO](https://github.com/GalleonDAO)**, a DeFi structured-products protocol that raised roughly $1M and reached around $20M TVL at its peak. I've also worked across fintech, payments, enterprise blockchain, growth, and engineering leadership.
-
-Galleon Labs is where I bring that experience to the products and experiments above.
+Founded Galleon DAO, a DeFi structured-products protocol backed by investors including 1kx and Anthony Sassano. Led growth and community at Set Labs and ran Brava Labs' institutional DeFi build. Earlier: blockchain payments architecture at Worldpay, Corda applications at R3 and software engineering at Sky.

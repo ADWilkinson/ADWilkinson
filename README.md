@@ -12,7 +12,7 @@ Founded Galleon DAO (raised about $1M, past $20M TVL at peak). Now running [Gall
 
 ---
 
-I'm a product engineer and founder in London. Galleon Labs is my lab: a set of live products in stablecoin cash-out, AI compute and local discovery, plus the agents that build, ship and run them. At Peer, where I'm an independent contractor, I work on peer-to-peer payments and the systems behind them.
+I'm a product engineer and founder in London. Galleon Labs is my lab: a set of live products in stablecoin cash-out, AI compute and local discovery, plus the agents that build, ship and run them. At Peer I work on peer-to-peer payments and the systems behind them.
 
 ## Open source
 

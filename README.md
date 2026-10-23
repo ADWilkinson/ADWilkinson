@@ -1,44 +1,26 @@
-<div align="center">
-
 # Andrew Wilkinson
 
-**I build and run products with a team of agents.**
-
-Founded Galleon DAO (raised about $1M, past $20M TVL at peak). Now running [Galleon Labs](https://galleonlabs.io) and building at [Peer](https://peer.xyz).
+I build products at [Peer](https://peer.xyz) and run [Galleon Labs](https://galleonlabs.io) in London.
 
 [Website](https://andrewwilkinson.io) · [X](https://x.com/andrewwilkinson) · [LinkedIn](https://www.linkedin.com/in/andrew-d-wilkinson/) · [Ship log](https://andrewwilkinson.io/ships/) · [Email](mailto:gm@galleonlabs.io)
 
-</div>
+## Products
 
----
+[USDCtoFiat](https://usdctofiat.xyz) is the main Galleon product: cash out USDC to a bank or payment app. [Peerlytics](https://peerlytics.xyz) supplies its rate and liquidity data. [tokensto.cash](https://tokensto.cash) lets you sell spare AI model capacity for USDC.
 
-I'm a product engineer and founder in London. Galleon Labs is my lab: a set of live products in stablecoin cash-out, AI compute and local discovery, plus the agents that build, ship and run them. At Peer I work on peer-to-peer payments and the systems behind them.
+I also build [Lettance](https://lettance.com), landlord compliance tools for England, and neighbourhood guides to [Fulham](https://knowfulham.com), [Chelsea](https://knowchelsea.com) and [Notting Hill](https://knownottinghill.com).
 
-USDCtoFiat is the lead Galleon product: cash out USDC to a bank or payment app. Peerlytics supplies its rate and liquidity data; tokensto.cash feeds earned USDC into cash-out.
+For fun: [Broadside](https://broadside.fun), multiplayer pirate ship combat, and [RampRidge](https://www.rampridge.xyz), a RuneScape-inspired USDC exchange on Peer ([source](https://github.com/ADWilkinson/rampridge)).
 
 ## Open source
 
-| Project | What it does | Proof |
-|---|---|---|
-| [HyperGrok](https://github.com/galleonlabs/hypergrok-trading-desk) | Open-source Hyperliquid trading desk for agents: seven roles and seventeen skills, in Grok Bot, Claude Code, Cursor, Codex and Gemini CLI | $5k sponsorship |
-| [claude-code-tools](https://github.com/ADWilkinson/claude-code-tools) | The agents, skills and hooks I use every day in Claude Code | Plugin and skills.sh |
-| [crypto-defi-skills](https://github.com/galleonlabs/crypto-defi-skills) | DeFi skills for agents: lending, liquidity, routing, portfolio review | [Benchmark](https://github.com/galleonlabs/crypto-defi-skills/blob/main/docs/BENCHMARK.md): 86 of 90 strict passes with skills, 66 of 90 without |
-| [Boomkin](https://github.com/galleonlabs/boomkin) | A local DeFi research desk for agents | npm `boomkin` |
-| [barbossa-dev](https://github.com/ADWilkinson/barbossa-dev) | My earlier autonomous development pipeline, retired and kept for reference | |
-| [The Flying Dutchman](https://github.com/ADWilkinson/the-flying-dutchman-theme) | A nautical dark theme for VS Code and other developer tools | |
+- [HyperGrok](https://github.com/galleonlabs/hypergrok-trading-desk): a Hyperliquid trading desk for agents.
+- [crypto-defi-skills](https://github.com/galleonlabs/crypto-defi-skills): DeFi skills for lending, liquidity, routing and portfolio review.
+- [Boomkin](https://github.com/galleonlabs/boomkin): a local DeFi research desk.
+- [claude-code-tools](https://github.com/ADWilkinson/claude-code-tools): the agents, skills and hooks I use in Claude Code.
 
-## Products
-
-| Product | What it does | Milestone (Oct 2026) |
-|---|---|---|
-| [USDCtoFiat](https://usdctofiat.xyz) | Cash out USDC on Base to a bank or payment app | $610k+ deposited |
-| [Peerlytics](https://peerlytics.xyz) | Rate and liquidity data for USDCtoFiat, with the Peer protocol explorer | |
-| [tokensto.cash](https://tokensto.cash) | Sell spare AI model capacity for USDC, then cash out through USDCtoFiat | 814M+ tokens sold |
-| [Lettance](https://lettance.com) | What a landlord in England must do, council by council, also usable from Claude and ChatGPT | 170 of 296 English councils researched |
-| Know London | Handpicked guides to [Fulham](https://knowfulham.com), [Chelsea](https://knowchelsea.com) and [Notting Hill](https://knownottinghill.com), each with an interactive map | |
-| [Broadside](https://broadside.fun) | Multiplayer pirate ship combat in the browser | |
-| [RampRidge](https://www.rampridge.xyz) | Old School RuneScape's Varrock West Bank, rebuilt as a live peer-to-peer USDC exchange on Peer ([source](https://github.com/ADWilkinson/rampridge)) | |
+Also: [The Flying Dutchman](https://github.com/ADWilkinson/the-flying-dutchman-theme), my nautical editor theme, and the retired [barbossa-dev](https://github.com/ADWilkinson/barbossa-dev) development pipeline.
 
 ## Background
 
-Founded Galleon DAO, a DeFi structured-products protocol backed by investors including 1kx and Anthony Sassano. Led growth and community at Set Labs and ran Brava Labs' institutional DeFi build. Earlier: blockchain payments architecture at Worldpay, Corda applications at R3 and software engineering at Sky.
+Founded Galleon DAO, which raised about $1M and reached $20M TVL at its peak, backed by investors including 1kx and Anthony Sassano. Led growth and community at Set Labs and ran Brava Labs' institutional DeFi build. Earlier: payments architecture at Worldpay, Corda applications at R3 and software engineering at Sky.

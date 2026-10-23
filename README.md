@@ -14,6 +14,8 @@ Founded Galleon DAO (raised about $1M, past $20M TVL at peak). Now running [Gall
 
 I'm a product engineer and founder in London. Galleon Labs is my lab: a set of live products in stablecoin cash-out, AI compute and local discovery, plus the agents that build, ship and run them. At Peer I work on peer-to-peer payments and the systems behind them.
 
+USDCtoFiat is the lead Galleon product: cash out USDC to a bank or payment app. Peerlytics supplies its rate and liquidity data; tokensto.cash feeds earned USDC into cash-out.
+
 ## Open source
 
 | Project | What it does | Proof |
@@ -29,12 +31,12 @@ I'm a product engineer and founder in London. Galleon Labs is my lab: a set of l
 
 | Product | What it does | Milestone (Oct 2026) |
 |---|---|---|
-| [tokensto.cash](https://tokensto.cash) | Sell spare AI model capacity for USDC, paid per request | 814M+ tokens sold |
-| [USDCtoFiat](https://usdctofiat.xyz) | Sell USDC on Base for money in everyday payment apps | $610k+ deposited |
+| [USDCtoFiat](https://usdctofiat.xyz) | Cash out USDC on Base to a bank or payment app | $610k+ deposited |
+| [Peerlytics](https://peerlytics.xyz) | Rate and liquidity data for USDCtoFiat, with the Peer protocol explorer | |
+| [tokensto.cash](https://tokensto.cash) | Sell spare AI model capacity for USDC, then cash out through USDCtoFiat | 814M+ tokens sold |
 | [Lettance](https://lettance.com) | What a landlord in England must do, council by council, also usable from Claude and ChatGPT | 170 of 296 English councils researched |
 | Know London | Handpicked guides to [Fulham](https://knowfulham.com), [Chelsea](https://knowchelsea.com) and [Notting Hill](https://knownottinghill.com), each with an interactive map | |
 | [Broadside](https://broadside.fun) | Multiplayer pirate ship combat in the browser | |
-| [Peerlytics](https://peerlytics.xyz) | Explorer for the Peer protocol | |
 | [RampRidge](https://www.rampridge.xyz) | Old School RuneScape's Varrock West Bank, rebuilt as a live peer-to-peer USDC exchange on Peer ([source](https://github.com/ADWilkinson/rampridge)) | |
 
 ## Background

@@ -1,6 +1,6 @@
 # Andrew Wilkinson
 
-I build products at [Peer](https://peer.xyz) and run [Galleon Labs](https://galleonlabs.io) in London.
+I build products at [Peer](https://peer.xyz) and run [Galleon Labs](https://andrewwilkinson.io) in London.
 
 [Website](https://andrewwilkinson.io) · [X](https://x.com/andrewwilkinson) · [LinkedIn](https://www.linkedin.com/in/andrew-d-wilkinson/) · [Ship log](https://andrewwilkinson.io/ships/) · [Email](mailto:gm@galleonlabs.io)
 

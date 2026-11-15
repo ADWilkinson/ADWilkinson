@@ -17,7 +17,7 @@ For fun: [Broadside](https://broadside.fun), multiplayer pirate ship combat, and
 - [HyperGrok](https://github.com/galleonlabs/hypergrok-trading-desk): a Hyperliquid trading desk for agents.
 - [crypto-defi-skills](https://github.com/galleonlabs/crypto-defi-skills): DeFi skills for lending, liquidity, routing and portfolio review.
 - [Boomkin](https://github.com/galleonlabs/boomkin): a local DeFi research desk.
-- [claude-code-tools](https://github.com/ADWilkinson/claude-code-tools): the agents, skills and hooks I use in Claude Code.
+- [astack](https://github.com/ADWilkinson/astack): the agent skills I use to take product work from context to a review-ready PR.
 
 Also: [The Flying Dutchman](https://github.com/ADWilkinson/the-flying-dutchman-theme), my nautical editor theme, and the retired [barbossa-dev](https://github.com/ADWilkinson/barbossa-dev) development pipeline.
 

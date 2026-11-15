@@ -4,7 +4,7 @@
 
 - Edit public profile copy in `README.md`; product setup and operational instructions belong in their own repos.
 - `.github/workflows/link-check.yml` owns the link validator, host exclusions and weekly schedule. Run it with `gh workflow run link-check.yml` for an explicit live check, then inspect that run's result.
-- Check current product descriptions against their source repositories. In the personal workspace, website source is `personal-website/agent-site/`; Galleon's product catalog is `galleonlabs.io/lib/work.ts`. The public profile is a summary of those sources.
+- Check current product descriptions against their source repositories. In the personal workspace, website source is `personal-website/agent-site/`, with product pages in `agent-site/content/work/` and the project list in `agent-site/bio/02-projects.md`. galleonlabs.io now redirects to andrewwilkinson.io, so `galleonlabs.io/lib/work.ts` is no longer the current catalog. The public profile is a summary of those sources.
 
 ## Code Review Rules
 

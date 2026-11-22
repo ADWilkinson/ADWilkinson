@@ -14,10 +14,12 @@ For fun: [Broadside](https://broadside.fun), multiplayer pirate ship combat, and
 
 ## Open source
 
-- [HyperGrok](https://github.com/galleonlabs/hypergrok-trading-desk): a Hyperliquid trading desk for agents.
-- [crypto-defi-skills](https://github.com/galleonlabs/crypto-defi-skills): DeFi skills for lending, liquidity, routing and portfolio review.
-- [Boomkin](https://github.com/galleonlabs/boomkin): a local DeFi research desk.
+- [HyperGrok](https://github.com/galleonlabs/hypergrok-trading-desk#try-it-now-no-keys) opens a Hyperliquid desk with a live market snapshot. You can try it without a wallet.
+- [crypto-defi-skills](https://github.com/galleonlabs/crypto-defi-skills#start-with-one-skill) lets you give your existing agent one job, like checking how far an Aave position is from liquidation.
+- [Boomkin](https://github.com/galleonlabs/boomkin#first-useful-task) keeps the question, sources and findings together in a local Hermes research desk.
 - [astack](https://github.com/ADWilkinson/astack): the agent skills I use to take product work from context to a review-ready PR.
+
+I maintain these tools through Galleon Labs. [Sponsor my open-source work](https://github.com/sponsors/ADWilkinson) to help cover release testing and updates when protocols change.
 
 Also: [The Flying Dutchman](https://github.com/ADWilkinson/the-flying-dutchman-theme), my nautical editor theme, and the retired [barbossa-dev](https://github.com/ADWilkinson/barbossa-dev) development pipeline.
 

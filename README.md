@@ -3,7 +3,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/voyage-narrow-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/voyage-narrow-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/voyage-wide-dark.svg">
-  <img src="assets/voyage-wide-light.svg" width="100%" alt="Andrew Wilkinson. I build products, and the agents that run them. An engraved galleon under way, its wake drawn from 74 ship records and 5,162 commits from the last 180 days, one lane per project.">
+  <img src="assets/voyage-wide-light.svg" width="100%" alt="Andrew Wilkinson. I build products, and the agents that run them. An engraved galleon under way, its wake drawn from 74 ship records and 5,854 commits from the last 180 days, one lane per project.">
 </picture>
 <!-- /v:hero -->
 
@@ -23,7 +23,7 @@ Figures are floors from the [published record](https://andrewwilkinson.io/metric
 
 ## Open source
 
-- **[HyperGrok](https://github.com/galleonlabs/hypergrok-trading-desk#try-it-now-no-keys)** opens a Hyperliquid desk with a live market snapshot. You can try it without a wallet. · **<!-- v:stars:galleonlabs/hypergrok-trading-desk -->604<!-- /v:stars:galleonlabs/hypergrok-trading-desk --> stars**
+- **[HyperGrok](https://github.com/galleonlabs/hypergrok-trading-desk#try-it-now-no-keys)** opens a Hyperliquid desk with a live market snapshot. You can try it without a wallet. · **<!-- v:stars:galleonlabs/hypergrok-trading-desk -->605<!-- /v:stars:galleonlabs/hypergrok-trading-desk --> stars**
 - **[crypto-defi-skills](https://github.com/galleonlabs/crypto-defi-skills#start-with-one-skill)** gives your existing agent one job, like checking how far an Aave position is from liquidation.
 - **[Boomkin](https://github.com/galleonlabs/boomkin#first-useful-task)** keeps the question, sources and findings together in a local Hermes research desk.
 - **[astack](https://github.com/ADWilkinson/astack)**: the agent skills I use to take product work from context to a review-ready PR.

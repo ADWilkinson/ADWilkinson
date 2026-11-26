@@ -23,7 +23,7 @@ Figures are floors from the [published record](https://andrewwilkinson.io/metric
 
 ## Open source
 
-- **[HyperGrok](https://github.com/galleonlabs/hypergrok-trading-desk#try-it-now-no-keys)** opens a Hyperliquid desk with a live market snapshot. You can try it without a wallet. · **<!-- v:stars:galleonlabs/hypergrok-trading-desk -->603<!-- /v:stars:galleonlabs/hypergrok-trading-desk --> stars**
+- **[HyperGrok](https://github.com/galleonlabs/hypergrok-trading-desk#try-it-now-no-keys)** opens a Hyperliquid desk with a live market snapshot. You can try it without a wallet. · **<!-- v:stars:galleonlabs/hypergrok-trading-desk -->604<!-- /v:stars:galleonlabs/hypergrok-trading-desk --> stars**
 - **[crypto-defi-skills](https://github.com/galleonlabs/crypto-defi-skills#start-with-one-skill)** gives your existing agent one job, like checking how far an Aave position is from liquidation.
 - **[Boomkin](https://github.com/galleonlabs/boomkin#first-useful-task)** keeps the question, sources and findings together in a local Hermes research desk.
 - **[astack](https://github.com/ADWilkinson/astack)**: the agent skills I use to take product work from context to a review-ready PR.

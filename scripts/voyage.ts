@@ -200,7 +200,7 @@ const LAYOUTS: Record<'wide' | 'narrow', Layout> = {
     ship: { left: 742, waterline: 362, scale: 1.58 },
     horizon: 276,
     wake: { left: 56, centreDrop: 6, spread: 116, lane: 0 },
-    rail: { y: 516, label: 15, value: 21, columns: [56, 540, 890], stacked: false },
+    rail: { y: 516, label: 15, value: 20, columns: [56, 492, 830], stacked: false },
   },
   narrow: {
     width: 720, height: 1180,

@@ -9,11 +9,17 @@ on:
     branches: [main]
     paths:
       - README.md
+      - assets/**
+      - scripts/**
       - .github/workflows/link-check.yml
+      - .github/workflows/refresh-profile.yml
   pull_request:
     paths:
       - README.md
+      - assets/**
+      - scripts/**
       - .github/workflows/link-check.yml
+      - .github/workflows/refresh-profile.yml
   schedule:
     # Weekly, Monday, deliberately off the top of the hour. GitHub delays
     # schedule events under load and documents the start of every hour as the

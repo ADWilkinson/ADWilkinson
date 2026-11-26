@@ -1,0 +1,9 @@
+{
+  "name": ["Andrew", "Wilkinson"],
+  "lines": ["I build products.", "And the agents that run them."],
+  "readme": "README.md",
+  "assets": "assets",
+  "assetBase": "assets",
+  "alt": "Andrew Wilkinson. I build products, and the agents that run them. An engraved galleon under way, its wake drawn from {ships} ship records and {commits} commits from the last 180 days, one lane per project.",
+  "logCount": 5
+}

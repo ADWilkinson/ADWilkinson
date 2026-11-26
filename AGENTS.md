@@ -1,6 +1,11 @@
 # GitHub personal profile
 
-`README.md` renders Andrew's profile at `github.com/ADWilkinson`. This repo has no application, build or deployment runtime.
+`README.md` renders Andrew's profile at `github.com/ADWilkinson`. There is no application runtime; one generator redraws parts of the profile.
+
+- `scripts/voyage.ts` (Bun) reads public records only: the `#voyage-log` and `#voyage-activity` JSON embedded in the andrewwilkinson.io home page, `andrewwilkinson.io/metrics.json` and public GitHub repository data. It renders `assets/voyage-{wide,narrow}-{dark,light}.svg` (the engraved galleon from the site's `site/ship.ts`, one wake mark per ship record) and rewrites every `<!-- v:NAME -->...<!-- /v:NAME -->` block in the README. `scripts/voyage.config.json` holds this profile's name, lines and lanes. A failed source exits non-zero without writing.
+- `.github/workflows/refresh-profile.yml` runs it daily and commits only when the output changed. Run `bun scripts/voyage.ts` after editing marker blocks; edit copy outside the markers by hand.
+- The same `voyage.ts` lives in `galleonlabs/.github`; keep the two copies identical. Figures come from the published metrics record already rounded; never type a figure into the README by hand.
+- `assets/fonts/JetBrainsMono.woff2` is embedded in the SVGs under the SIL OFL (`assets/fonts/OFL.txt`).
 
 - Edit public profile copy in `README.md`; product setup and operational instructions belong in their own repos.
 - `.github/workflows/link-check.yml` owns the link validator, host exclusions and weekly schedule. Run it with `gh workflow run link-check.yml` for an explicit live check, then inspect that run's result.
